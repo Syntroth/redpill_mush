@@ -1,33 +1,34 @@
- +    .                   __       __  _   ____     ____     .        .
-   .     .         .      \ \ /\  / / | | |  _ \ . / ___| .                .
-  .            .           \ \\ \/ /  | | | | | | | / __       ++   .|
- .          .  .            \ \\  /   | | | | | | | \|_ | .         -+|       +
-                       .     \/ \/  . |_| |_| |_|  \___/             |      .
- .     .___   ___    ______    ______      __     ____    ____    ____  ___
-       / __| / _ \  |   _  \  |   _  \   . \ \   |  _ \  |___ \  |____||__ \  .
-      | /   | | | | | || || | | || || |  __ \ \  | | | | | | \ | |  __||__ /
-      | \__ | |_| | | || || | | || || | / /__\ \ | | | | | |_/ | | |__   | |
-  ,    \___| \___/  |_||_||_| |_||_||_|/________\|_| |_| |____/. |____|  |_|  .
-                  |                                   .
-       :     .   -+-       == N E W   H O R I Z O N ==      .        .
-   .        .     |        .        +   .         -+-  .          .         .
-    |    . .     .  . +       ..    .        . ... |.    +    +            |  +
-   -+-          .          :::::::cccccccc::::::::::          .  .   .    -+-
-  . |      .         ::cc'd$$$$$$$$$$$$$$$$$$$$$$$'ccc::                   |
-         .        c$$$$$FF"'MMMMMMMMMMM8M8/\-8'bj"?F?$$$$'cc:    +       +
-      +      cd$$$FF'MMMMMMMMMMMMMM8//bYMM.M^88M/\-2PY`8"?F$$$'c      .
-  .        \$$F'MMMMMMMMMM=Y\,:bbd\//"MMM----.(MMMM_8M|`b88]?$$$$$$        ..-+-
-      |$|$F'MMMMMMM8.YM/bMM,P88888MMMMMMMM-MMMMMM`M$$MMM/8b8|P88$$$$$$
-   $$\\_/MMMMMMMMM+8|MMMFMF8c_88$$$$.MMMMMMMMM88MM$$$$$$$$hccF?$$$$$$$$$$$
-$$$F"MMMMMMMMMMMMM8'MM\c8,d$$$$$$$$MM8$$ccc$$c88$$b8d$$$$MM88$MM$$$$$$$$$$$$$ +
-$FMMMMMMMMMMM\8\8MMMMMM8'8$$$$FM?F$$$$$$$$$$$$8$F';\MMMM$h[MM$$88888$8$$88$$$$$'
-MMMMMMMMMMMM88?c8\88$cMM$$$$$$$c8c8$c$$$$$$$$$MMMMMMM'-M\?$MvMM8$$$8$$hd$$$$$$$$
+Welcome to the real world.
+
+We are in the time of the fifth chosen one, still awaiting for his arrival. The 
+fight between the free people of Zion and the Matrix is fiercer than ever, and 
+dissidents both plugged and unplugged had formed a combatant religion as their 
+last resistance force.
+
+Meanwhile, in the outside world, the council of the last human city fights for
+power, positions, and influence, tearing the government apart and leaving space
+for corruption and treason. Yes, treason. For the location of Zion has been 
+discovered, and hordes of Sentinels are mobilizing, aiming for a final strike 
+to end the revolution.
+
+But there is another council, one made by programs inside of The Matrix, who 
+follow the Merovingian as their supreme leader and king. No one knows his real 
+intention, but as the days pass, his organization grows and prepares for their 
+own war.
+
+And there are Agents, more Agents than ever. The Architect himself has deployed 
+them to ensure their control and crush all the opposing factions forever.
+
+Where is The One? Will the prophecy fulfill before it is too late? Will you 
+continue your life with eyes closed, or will you stand, fight, and take the 
+Red Pill?
+
+
 +-------------------------------------------------+----------------------------+
-| to create:  register "<first> <last>" <email>   | wcmush.com 2199            |
-| to connect: connect "<first> <last>" <password> | SSL: wcmush.com 2299 / 443 |
-| to visit:   connect guest guest                 | www.wcmush.com    @wcmush  |
+| to create:  register "<name>" <email>           | 192.241.169.213 2222       |
+| to connect: connect "<name>" <password>         |                            |
+| to visit:   connect guest guest                 | http://redpill.x10.mx      |
 +-------------------------------------------------+----------------------------+
 | Adult content is not in any way the theme of this game, but may be present.  |
-| By connecting, you agree that you are over 18 years of age. All content is   |
-| copyright (c) 2012 wcmush.com, except where prior ownership exists.          |
+| By connecting, you agree that you are over 18 years of age.                  |
 +------------------------------------------------------------------------------+
