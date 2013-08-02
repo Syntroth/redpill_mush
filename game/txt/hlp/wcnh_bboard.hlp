@@ -1,6 +1,6 @@
 & BBOARD
 & +BBOARD
-Wing Commander: New Horizon's Bulletin Board is a custom in-game system written
+Red Pill's Bulletin Board is a custom in-game system written
 in Ruby which aims to provide the experience of using a web-based forum while
 logged in to the game.  For the sake of simplicity, wherever it's possible the
 command structure mimics the popular Myrddin BBS that has become a staple on

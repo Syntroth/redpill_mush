@@ -15,7 +15,7 @@
   system to help design your character - his or her abilities, skills, traits,
   and so on. The process is very similar to that used in pen-and-paper RPGs.
 
-  WCNH's system is based on the FUDGE tabletop system, with adaptations and
+  Red Pill's system is based on the FUDGE tabletop system, with adaptations and
   customizations for MUSH use.
 
   As a new player, you will need to complete chargen before you can begin role-
@@ -41,14 +41,14 @@
 
   Typing '+sheet' will show you your attributes and skills. Most skills
   have a base, which you can see via '+skillinfo <skill>'. For example, 
-  Astrogation has a base of REA-2; if your REAson is Good (4), that skill will
+  Operation has a base of REA-2; if your REAson is Good (4), that skill will
   be Mediocre (2).
 
   Some skills are complex and don't have a base; those skills will start at 
   Awful (0) for everybody.
 
   In chargen, you will be able to add levels to your skills. Continuing the
-  example above, if you spend points in chargen to get a +2 in Astrogation,
+  example above, if you spend points in chargen to get a +2 in Operation,
   you'd then have it at Good (4).
 
   Once your skills and attributes are set, you can roll them using '+check'.
@@ -117,22 +117,24 @@ The commands you'll need here are:
  
 +set age <AGE>
 You can't be over 85 or under 18. Note that we use 'human years' here, even
-for other races.
+for programs.
  
 +set race <RACE>
-Choose a race. Valid races at the moment are are Human or Kilrathi.
+Choose a race. Valid races at the moment are are Human or Program. Please note
+that Agent is Staff-only.
  
 +set concept <CONCEPT>
 Your 'concept' is a one-or-two sentence summary of your character. We make you
 write this first because then you can keep it in mind for the rest of chargen,
 which really helps the process (believe it or not). Example: 'A neophyte
 merchant trader. Young, impressionable, but determined to make his mark on the 
-galaxy.'
+city.'
  
 +set name <firstname> <lastname>
-You need a full name. Kilrathi should use their clan name as their last name.
-(See the Kilrathi page on the website for info on the clans that are part of
-our little corner of the galaxy.)
+You need a full name if you are a human plugged to The Matrix. Keep in mind
+that the unplugged people of Zion give up their real name in favor of self
+chosen nicknames that reflect their personality. The Programs are free to take
+a 'human' name if they wish.
  
 +set gender <Male|Female>
 I dearly hope this is self-explanatory.
@@ -219,9 +221,4 @@ Please take a moment to review our terms of service. It's important.
 After you read the TOS, type this command if you accept. If you don't accept,
 feel free to disconnect.
 
-+list
-This command lists the various starting planets.
-
-+choose <planet>
-Chooses a starting planet.
 
