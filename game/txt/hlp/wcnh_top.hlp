@@ -1,14 +1,11 @@
 & help
-Welcome to Wing Commander: New Horizon MUSH. Please don't be afraid to ask for
+Welcome to Red Pill, a Matrix based MUSH. Please don't be afraid to ask for
 help if you need it! Just type '+new I need some help!'. Our admin and
 player guides will be glad to help if able.
  
-If you're completely new to MUSHing, you may want to check out the Newbie Guide
-on our website: http://www.wcmush.com/pages/wcnh-newbie-guide
+Choose one of the following topics to get started with:
  
-Otherwise, choose one of the following topics to get started with:
- 
-ROLEPLAY          SPACE             ECONOMY           SOCIAL
+ROLEPLAY                ECONOMY           SOCIAL
  
 Type 'help <topic>' to delve into the topic of your choice.
  
@@ -26,12 +23,12 @@ If you want a complete index of game-specific code, try 'help local'.
   PAGES:
  
   +911           ACCOUNT        +BBOARD        +bg            CALENDAR       
-  CARGO          cash           CHARGEN        COMBAT         COMMS          
-  +concept       CONTRACT       FACTIONS       +finger        +guides
+  cash           CHARGEN        COMBAT         COMMS          +concept
+  +concept       +finger        +guides        GUIDES         +LOG 
   GUIDES         +LOG           lock           +map           +ooc
   pay            PLACES         put down       RACES          +RP
-  +set           SPACE          +staff         +TICKET        time
-  WANTED         +web           +where         +who           +XP
+  +set           +staff         +TICKET        time           WANTED
+  +web           +where         +who           +XP
 
 
 & ROLEPLAY
@@ -61,7 +58,7 @@ LOCK      How can I lock or unlock entire rooms?
 Type 'help <topic>' for more information on each topic.
 
 & SOCIAL
-Playing on any MUSH is a social experience, and WCNH is no different.  We
+Playing on any MUSH is a social experience, and Red Pill is no different.  We
 provide a number of methods for communicating and interacting with your fellow
 players.  The important point to remember is that some routes of communication
 are In-Character (IC) and others are Out-of-Character (OOC).  The help files on
@@ -100,7 +97,7 @@ or the game at large.
 Type 'help <topic>' for more information on each topic.
 
 & original
-Welcome to Wing Commander: New Horizon MUSH. Please don't be afraid to ask for
+Welcome to Red Pill, a Matrix based MUSH. Please don't be afraid to ask for
 help if you need it! Just type '+new I need some help!'. Our admin and
 player guides will be glad to help if able.
   
@@ -110,7 +107,7 @@ player guides will be glad to help if able.
   For the list of standard MUSH topics, type:     help topics
   For an alphabetical list of all help entries:   help entries   
  
-  For a list of commands specific to WCNH, type:  help local
+  For a list of commands specific to Red Pill, type:  help local
   To view the Terms of Service, type:             help terms of service
  
 If you find an error in the help files or have an idea of how to make one 
@@ -120,8 +117,7 @@ better, please open a +ticket (see: 'help +ticket') and we'll check it out.
   wanted
   wanted <entry number>
  
-  This command allows you to view the IC 'wanted' information, jointly published
-  by the Enigma Sector Consortium & the Kilrathi Commonwealth.
+  This command allows you to view the IC 'wanted' information.
  
   This information is fully IC and may be acted upon, however, please remember
   that just because you see another player in a room with you, you may not know
@@ -134,7 +130,7 @@ better, please open a +ticket (see: 'help +ticket') and we'll check it out.
   See additional help on: +911, +ticket
 
 & +log
-  On WCNH, by default, all roleplay poses, emits, etc are logged. This is for
+  On Red Pill, by default, all roleplay poses, emits, etc are logged. This is for
   several reasons: #1, to reward players with XP, +noms, and other perks based
   on the amount they roleplay, and #2, to allow players and staff to retrieve
   logs easily, both after scenes and in real-time, eliminating the need for
@@ -153,30 +149,6 @@ better, please open a +ticket (see: 'help +ticket') and we'll check it out.
   +log/on - Re-enable logging.
   +log/last - View the last 5 poses you've seen, whether yours or not.
   +log/last page <#> - View more pages of poses you've seen.
-& contract
-  The contract system represents the IC process that both the Consortium and
-  Commonwealth (unified under 'Enigma Sector Procurement') go through when they
-  have large jobs that need to be handled by an outside contractor. It's similar
-  to many real-world 'RFP'/procurement processes.
-
-  The contract system is used for all sorts of contract jobs, big and small.
-
-  Every contract has both background information and a set of questions. To bid
-  on a contract, you need to answer all of the questions on behalf of yourself
-  or your org, and then submit the response prior to the contract closing to new
-  bids. Responses will not be considered until they are submitted.
-
-  Contracts will be awarded within a few days of their close date, and the
-  "winner" is normally announced publically via the Procurement +bboard.
-
-  Commands:
-  contract/list - List all open and recently closed contracts.
-  contract <job #> - View details of a contract.
-  contract/answer <job #>/<question #>=<answer> - Record your answer to a 
-                                                  contract question.
-  contract/response <job #> - View your response to a contract.
-  contract/submit <job #> - Submit your completed response. Once submitted, you
-                            cannot change your answers.
 
 & LOCK
 Syntax: lock <exit>
